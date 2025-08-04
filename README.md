@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Sinha</h1>
-<h3 align="center">I am Aryan Sinha, a dedicated Sotware Engineer based in Pune. I have honed my skills in software engineering and web development. My expertise spans across programming languages like C++, C, and Python, rust and I am proficient in modern web technologies including React, HTML, CSS, and JavaScript. I have been actively involved in manual testing, writing scripts, and performing end-to-end testing for the MBNL project in Ericsson. I have created secure, user-friendly web applications. Driven by a passion for problem-solving and continuous learning, I am eager to leverage my technical skills and industry knowledge to make impactful contributions in the field of technology.</h3>
+<h3 align="center">
+I am Aryan Sinha, a dedicated Software Engineer based in Pune with hands-on experience in building scalable backend systems and AI-powered applications. My core skills include C++, Python, Node.js, and working with modern web technologies like React, Express, MongoDB, and LangChain. I have worked on projects and have built multiple full-stack and LLM-integrated applications involving OpenAI APIs, authentication, and tool-calling. Passionate about backend development and applied AI, I aim to leverage my problem-solving ability and engineering mindset to deliver impactful tech solutions.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinha1818&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinha1818" /> </p>
 
@@ -7,7 +10,7 @@
 
 - 📫 How to reach me **aryan.sinha1818@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/140ajxsjWymiDQLv2Pb-EEdTeLIJ9Lm5t/view](https://drive.google.com/file/d/1mj9EcLX_NUBpH94h8HTF_3KefrieGPvD/view?usp=sharing)]](https://drive.google.com/file/d/1JQVmCbpPoL0jfVEFkTxfGQC-SybaTwY1/view?usp=sharing)
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/140ajxsjWymiDQLv2Pb-EEdTeLIJ9Lm5t/view](https://drive.google.com/file/d/1JQVmCbpPoL0jfVEFkTxfGQC-SybaTwY1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
