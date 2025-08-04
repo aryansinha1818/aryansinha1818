@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aryan.sinha1818@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/140ajxsjWymiDQLv2Pb-EEdTeLIJ9Lm5t/view](https://drive.google.com/file/d/1mj9EcLX_NUBpH94h8HTF_3KefrieGPvD/view?usp=sharing)]
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/140ajxsjWymiDQLv2Pb-EEdTeLIJ9Lm5t/view](https://drive.google.com/file/d/1mj9EcLX_NUBpH94h8HTF_3KefrieGPvD/view?usp=sharing)]](https://drive.google.com/file/d/1JQVmCbpPoL0jfVEFkTxfGQC-SybaTwY1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
