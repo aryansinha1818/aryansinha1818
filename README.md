@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Sinha</h1>
 
 <h3 align="center">
-I’m Aryan Sinha, a passionate Software Engineer, focused on building scalable backend systems and AI-integrated applications.<br><br>
+a passionate Software Engineer, focused on building scalable backend systems and AI-integrated applications.<br><br>
 I specialize in <b>Node.js, Python, and C++</b>, and work extensively with modern technologies like <b>React, Express, MongoDB, Docker, and LangChain</b>.<br><br>
 I’ve built multiple <b>full-stack and LLM-driven applications</b> that combine strong backend architecture with intelligent AI workflows — including OpenAI integrations, authentication systems, and tool-calling pipelines.<br><br>
 Driven by curiosity and a problem-solving mindset, I aim to create solutions that are technically sound, efficient, and impactful — bridging the gap between backend engineering and applied AI innovation.
