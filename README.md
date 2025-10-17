@@ -10,7 +10,7 @@ I am Aryan Sinha, a dedicated Software Engineer based in Pune with hands-on expe
 
 - 📫 How to reach me **aryan.sinha1818@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/140ajxsjWymiDQLv2Pb-EEdTeLIJ9Lm5t/view](https://drive.google.com/file/d/1JQVmCbpPoL0jfVEFkTxfGQC-SybaTwY1/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/115TFVdzxD3wydGyj_CpxdhgHrnLCHk2U/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
