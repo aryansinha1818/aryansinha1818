@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aryan Sinha</h1>
 <h3 align="center">
-I am Aryan Sinha, a dedicated Software Engineer based in Pune with hands-on experience in building scalable backend systems and AI-powered applications. My core skills include C++, Python, Node.js, and working with modern web technologies like React, Express, MongoDB, and LangChain. I have worked on projects and have built multiple full-stack and LLM-integrated applications involving OpenAI APIs, authentication, and tool-calling. Passionate about backend development and applied AI, I aim to leverage my problem-solving ability and engineering mindset to deliver impactful tech solutions.
+I’m Aryan Sinha, a passionate Software Engineer, focused on building scalable backend systems and AI-integrated applications.
+I specialize in Node.js, Python, and C++, and work extensively with modern technologies like React, Express, MongoDB, Docker, and LangChain.
+
+I’ve built multiple full-stack and LLM-driven applications that combine strong backend architecture with intelligent AI workflows — including OpenAI integrations, authentication systems, and tool-calling pipelines.
+
+Driven by curiosity and a problem-solving mindset, I aim to create solutions that are technically sound, efficient, and impactful — bridging the gap between backend engineering and applied AI innovation.
 </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinha1818&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinha1818" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/aryansinha1818](https://github.com/aryansinha1818)
 
 - 📫 How to reach me **aryan.sinha1818@gmail.com**
 
